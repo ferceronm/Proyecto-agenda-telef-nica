@@ -47,27 +47,6 @@ Ejemplo:
 5555512345,Carlos Ruiz
 ```
 
-## Cómo compilar y ejecutar
-
-### Requisitos
-
-- Java JDK 8 o superior instalado.
-
-### Compilar
-
-```bash
-cd clase2
-javac -encoding UTF-8 -d out src/AddressBook.java src/Main.java
-```
-
-Esto genera los archivos `.class` en la carpeta `out/`.
-
-### Ejecutar
-
-```bash
-java -cp out Main
-```
-
 ### Ejemplo de uso
 
 ```
